@@ -54,6 +54,6 @@ To use the Farm Assistant web application:
 - Hard Disk: 500 GB or above
 
 ## Contributions
-- Naga Vinay(https://github.com/Chetanperisetti)
+- [Naga Vinay](https://github.com/Chetanperisetti)
 
 
